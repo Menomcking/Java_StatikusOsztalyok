@@ -74,4 +74,7 @@ public final class Veletlen {
     public static String velTeljesNev(boolean nem) {
         return velVezetekNev() + " " + velKeresztNev(nem);
     }
+
+    public static String velDatum(ev1: int, ev2: int){}
+
 }
